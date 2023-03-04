@@ -2,6 +2,14 @@
 
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suelenportoig/)
 [![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suelen-porto-79057a8a/)
+</br>
+
+## ✨ Futura desenvolvedora Front-end
+## 📚 Cursando Análise e Desenvolvimento de Sistemas 
+
+
+</br>
+
 
 ![Suelen GitHub stats](https://github-readme-stats.vercel.app/api?username=SuelenPorto&show_icons=true&theme=gruvbox)
 
@@ -17,12 +25,11 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div> </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuelenPorto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<
-
 </br>
 
-<p align="center"> <img align="center" src="https://profile-counter.glitch.me/SuelenPorto/count.svg" /></p>
-
+  
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuelenPorto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
